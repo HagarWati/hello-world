@@ -1,3 +1,3 @@
 # hello-world
-My "CSC 154" First Repository
+GitHub Exercise Hello! This is my CSC154Lab3 GitHub Exercise
 
